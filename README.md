@@ -1,4 +1,4 @@
-# <img src="media/cato-logo.png" width="40" style='margin-right: 10px;'> Cato
+# <img src="src/media/cato-logo.png" width="40" style='margin-right: 10px;'> Cato
 
 [![Chrome version][badge-cws]][link-cws]
 [![PRs Welcome][prs-badge]][prs]
@@ -23,10 +23,10 @@ This browser extension available for:
 	<tr><!-- Prevent zebra stripes --></tr>
 	<tr>
 		<td>
-			<img src="media/chrome-icon.png" width="48px">
+			<img src="src/media/chrome-icon.png" width="48px">
 		</td>
 		<td>
-			<img src="media/opera-icon.png" width="48px">
+			<img src="src/media/opera-icon.png" width="48px">
 		</td>
 	</tr>
   <tr>
@@ -52,10 +52,10 @@ This browser extension available for:
 	<tr><!-- Prevent zebra stripes --></tr>
 	<tr>
 		<td>
-			<img src="media/example-commands-showcase1.png">
+			<img src="src/media/example-commands-showcase1.png">
 		</td>
 		<td>
-			<img src="media/example-command-showcase2.png">
+			<img src="src/media/example-command-showcase2.png">
 		</td>
 	</tr>
 </table>
@@ -64,10 +64,10 @@ This browser extension available for:
 	<tr><!-- Prevent zebra stripes --></tr>
   <tr>
 		<td>
-			<img src="media/example-change-tab.png">
+			<img src="src/media/example-change-tab.png">
 		</td>
 		<td>
-			<img src="media/example-disable-extension.png">
+			<img src="src/media/example-disable-extension.png">
 		</td>
 	</tr>
 </table>
@@ -81,10 +81,10 @@ This browser extension available for:
 	<tr><!-- Prevent zebra stripes --></tr>
 	<tr>
 		<td>
-			<img src="media/example-fallback-search.png">
+			<img src="src/media/example-fallback-search.png">
 		</td>
 		<td>
-			<img src="media/example-calculator.png"> </td>
+			<img src="src/media/example-calculator.png"> </td>
 	</tr>
 </table>
 
@@ -97,7 +97,7 @@ This browser extension available for:
 	<tr><!-- Prevent zebra stripes --></tr>
 	<tr>
 		<td>
-			<img src="media/example-theme-customizer.png">
+			<img src="src/media/example-theme-customizer.png">
 		</td>
 </table>
 
@@ -110,7 +110,7 @@ This browser extension available for:
   - Windows and Linux: <kbd>Ctrl</kbd> + <kbd>J</kbd>
 - Alternatively, in Google Chrome, you can go to the URL `chrome://extensions` and scroll to the bottom and click **Keyboard shortcuts**
 
-<img src="media/change-shortcut-how-to.png" width="400px"/>
+<img src="src/media/change-shortcut-how-to.png" width="400px"/>
 
 
 
