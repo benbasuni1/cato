@@ -1,0 +1,17 @@
+{
+  "short_name": "Cato",
+  "name": "Cato",
+  "manifest_version": 2,
+  "browser_action": {
+    "default_popup": "index.html",
+    "default_title": "Cato"
+  },
+  "permissions": [
+    "activeTab",
+    "bookmarks",
+    "tabs",
+    "management",
+    "storage"
+  ],
+  "version": "1.0"
+}
