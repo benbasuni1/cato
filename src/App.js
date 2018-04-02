@@ -19,13 +19,3 @@ class App extends Component {
 }
 
 export default App;
-
-      // <div class="cLauncher">
-      //   <div class="cLauncher__search-input-wrapper">
-      //     <input type="text" class="cLauncher__search" autofocus placeholder="Enter a Command"/>
-      //   </div>
-      //   <div class="cLauncher__suggestions-wrapper">
-      //     <ul class="cLauncher__suggestions cLauncher__scrollbar">
-      //     </ul>
-      //   </div>
-      // </div>
