@@ -1,21 +1,22 @@
 :root {
   --app-background-color:#FFFFFF; 
   --app-width-size:500px;
-   --search-input-caret-color:#222222; 
-   --search-input-value-text-color:#222222; 
-   --search-input-value-text-size:30px; 
-   --search-results-scrollbar-color:#222222; 
-   --search-results-scrollbar-width:2px;
-   --selected-suggestion-background-color:#222222;
-   --selected-suggestion-character-match-color:#FFFFFF;
-   --selected-suggestion-subtitle-text-color:#FFFFFF;
-   --selected-suggestion-title-text-color:#FFFFFF;
-   --suggestion-character-match-color:#222222;
-   --suggestion-subtitle-text-color:#222222;
-   --suggestion-subtitle-text-size:14px;
-   --suggestion-title-text-color:#222222;
-   --suggestion-title-text-size:16px;
+  --search-input-caret-color:#222222; 
+  --search-input-value-text-color:#222222; 
+  --search-input-value-text-size:30px; 
+  --search-results-scrollbar-color:#222222; 
+  --search-results-scrollbar-width:2px;
+  --selected-suggestion-background-color:#222222;
+  --selected-suggestion-character-match-color:#FFFFFF;
+  --selected-suggestion-subtitle-text-color:#FFFFFF;
+  --selected-suggestion-title-text-color:#FFFFFF;
+  --suggestion-character-match-color:#222222;
+  --suggestion-subtitle-text-color:#222222;
+  --suggestion-subtitle-text-size:14px;
+  --suggestion-title-text-color:#222222;
+  --suggestion-title-text-size:16px;
 }
+
 .cLauncher {
   background: var(--app-background-color);
   min-height: 60px;
